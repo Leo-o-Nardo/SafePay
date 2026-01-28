@@ -10,6 +10,10 @@
 
 > **High-Performance Fintech Simulation:** Payment processing and digital wallet system with event-driven architecture, asynchronous processing, and real-time monitoring.
 
+<p align="center">
+  <img src="./assets/dashboard.png" alt="SafePay Dashboard Preview" width="800">
+</p>
+
 ---
 
 ## 📖 About the Project
